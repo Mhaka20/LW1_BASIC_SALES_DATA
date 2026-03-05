@@ -1,3 +1,5 @@
+PDF LINK: https://docs.google.com/presentation/d/1trOUlhtPpUGosckm8DTBWyeBeqfCHUs2/edit?usp=sharing&ouid=114675995467550500793&rtpof=true&sd=true
+
 **PART 1 Launching Power BI & Loading Data**
 
 Step 1 Open Power BI Desktop
