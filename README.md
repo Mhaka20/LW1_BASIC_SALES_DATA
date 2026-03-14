@@ -1,4 +1,4 @@
-PDF LINK: https://docs.google.com/presentation/d/1trOUlhtPpUGosckm8DTBWyeBeqfCHUs2/edit?usp=sharing&ouid=114675995467550500793&rtpof=true&sd=true
+PDF LINK: [https://docs.google.com/presentation/d/1trOUlhtPpUGosckm8DTBWyeBeqfCHUs2/edit?usp=sharing&ouid=114675995467550500793&rtpof=true&sd=true](https://drive.google.com/file/d/1RAAotWiL4xuX-JYQMhr-M0g_m_1mMobR/view?usp=sharing)
 
 **PART 1 Launching Power BI & Loading Data**
 
